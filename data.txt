@@ -1,0 +1,30 @@
+Akron, 10.201581027667984 inches of rainfall.
+Albia, 14.881422924901186 inches of rainfall.
+Algona, 12.130434782608697 inches of rainfall.
+Allison, 13.296442687747037 inches of rainfall.
+Alton, 10.841897233201582 inches of rainfall.
+AmesW, 13.466403162055338 inches of rainfall.
+AmesSE, 13.418972332015812 inches of rainfall.
+Anamosa, 13.964426877470355 inches of rainfall.
+Ankeny, 13.193675889328066 inches of rainfall.
+Atlantic, 13.743083003952572 inches of rainfall.
+Audubon, 13.284584980237154 inches of rainfall.
+Beaconsfield, 13.940711462450595 inches of rainfall.
+Bedford, 14.367588932806326 inches of rainfall.
+BellePlaine, 14.15415019762846 inches of rainfall.
+Bellevue, 13.57707509881423 inches of rainfall.
+Blcokton, 14.339920948616601 inches of rainfall.
+Bloomfield, 15.027667984189726 inches of rainfall.
+Boone, 14.347826086956522 inches of rainfall.
+Brighton, 13.276679841897236 inches of rainfall.
+Britt, 12.466403162055336 inches of rainfall.
+Buckeye, 13.304347826086957 inches of rainfall.
+BurlingtonKBUR, 14.996047430830039 inches of rainfall.
+Burlington, 14.600790513833992 inches of rainfall.
+Carroll, 13.173913043478262 inches of rainfall.
+Cascade, 13.233201581027668 inches of rainfall.
+Daly, 15.106719367588934 inches of rainfall.
+Delmar, 11.146245059288539 inches of rainfall.
+The average amount of rainfall is 13.462304201434637 inches.
+The maximum amount of rainfall is 15.106719367588934 inches in the city of Daly
+The minimum amount of rainfall is 10.201581027667984 inches in the city of Akron
