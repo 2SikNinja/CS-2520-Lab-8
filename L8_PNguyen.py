@@ -40,7 +40,7 @@ try:
      
      #calculations for task 3
      for i in range(entries):
-          rain_fall_data_in_inches[i] = rain_fall_data_in_inches[i] / 2.53
+          rain_fall_data_in_inches[i] = rain_fall_data_in_inches[i] * 2.54
      tupleList = list(zip(city_name, rain_fall_data_in_inches))
      average = str(mean(rain_fall_data_in_inches))
      maximum = str(max(tupleList))
