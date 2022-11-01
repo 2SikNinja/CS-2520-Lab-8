@@ -46,9 +46,6 @@ try:
      maximum = str(max(tupleList))
      minimum = str(min(tupleList))
      rain_fall_data_in_inches = [str(i) for i in rain_fall_data_in_inches]
-     str(average)
-     str(maximum)
-     str(minimum)
      
      
      
