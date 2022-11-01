@@ -45,7 +45,6 @@ try:
      average = str(mean(rain_fall_data_in_inches))
      maximum = str(max(tupleList))
      minimum = str(min(tupleList))
-     tupleList = list(zip(city_name, rain_fall_data_in_inches))
      rain_fall_data_in_inches = [str(i) for i in rain_fall_data_in_inches]
      str(average)
      str(maximum)
